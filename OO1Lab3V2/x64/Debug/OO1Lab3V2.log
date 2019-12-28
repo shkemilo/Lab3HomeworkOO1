@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\matej\source\repos\OO1Lab3V2\main.cpp(35,22): error C2664: 'Agencija &Agencija::AddElement(Datum &)': cannot convert argument 1 from 'Vozilo' to 'Datum &'
-C:\Users\matej\source\repos\OO1Lab3V2\Evidencija.h(8,12): message : see declaration of 'Agencija::AddElement'
-  Vozilo.cpp
-  Generating Code...
